@@ -5,7 +5,7 @@ import { IoMenu } from "react-icons/io5";
 const Navbar = () => {
   return (
     <div>
-      <nav class="bg-[#1d1f45] text-white border-gray-200 dark:bg-gray-900">
+      <nav class="bg-[#1d1f45] text-white border-gray-200 dark:bg-gray-900 ">
       <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
         <h1 className="font-semibold text-2xl  ">COSMIC QUEST</h1>
         <IoMenu size={30} className="md:hidden"/>
