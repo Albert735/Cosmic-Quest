@@ -3,7 +3,7 @@ import React from "react";
 const Hero = () => {
   return (
     <div
-      className="flex flex-col items-center xl:flex-row h-[60rem] xl:h-[40rem]"
+      className="flex flex-col items-center xl:flex-row h-[60rem] xl:h-[40rem] md:p-[7rem] mb-[1rem]"
       style={{ backgroundImage: 'url("./nightsky.jpg")' }}
     >
       <div className="flex flex-col flex-1 items-center xl:items-start justify-center text-start m-[3rem]">
