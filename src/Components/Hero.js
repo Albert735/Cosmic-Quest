@@ -3,11 +3,11 @@ import React from "react";
 const Hero = () => {
   return (
     <div
-      className="flex flex-col items-center xl:flex-row h-[60rem] xl:h-[40rem] md:p-[7rem] mb-[1rem]"
+      className="flex flex-col items-center xl:flex-row h-[60rem] xl:h-[40rem] md:p-[7rem] mb-[1rem] "
       style={{ backgroundImage: 'url("./nightsky.jpg")' }}
     >
       <div className="flex flex-col flex-1 items-center xl:items-start justify-center text-start m-[3rem]">
-        <h1 className="font-bold text-[4rem] text-white justify-center items-center ">
+        <h1 className="font-bold text-[4rem] text-white justify-center items-center animate-heartbeat">
           Enter the Cosmos: Unveiling the Marvels of Space
         </h1>
         <p className="font-semibold text-[1rem] text-white ">

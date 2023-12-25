@@ -8,7 +8,7 @@ const Hero1 = () => {
           <img
             src={require("./Space Astronaut Wallpaper 4K Ideas.jpg")}
             alt=""
-            className="rounded-2xl w-[25rem]  "
+            className="rounded-2xl w-[25rem] shadow-md  "
           />
         </div>
         <p className="p-3 w-full text-center">
@@ -21,7 +21,7 @@ const Hero1 = () => {
           <img
             src={require("./pic1.jpg")}
             alt=""
-            className="rounded-2xl w-[25rem]  "
+            className="rounded-2xl w-[25rem] shadow-md "
           />
         </div>
         <p className="p-3 w-full text-center">
@@ -34,7 +34,7 @@ const Hero1 = () => {
           <img
             src={require("./Galaxy.jpg")}
             alt=""
-            className="rounded-2xl w-[25rem]  "
+            className="rounded-2xl w-[25rem] shadow-md  "
           />
         </div>
         <p className="p-3 w-full text-center">
