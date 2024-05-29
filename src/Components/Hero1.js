@@ -13,7 +13,7 @@ const Hero1 = () => {
         </div>
         <p className="p-3 w-full text-center">
           An inspirational website aims to motivate and uplift visitors by
-          showcasing positive stories, achievements, or creative works.
+          showcasing positive exclusive stories, achievements, or creative works.
         </p>
       </div>
       <div>
